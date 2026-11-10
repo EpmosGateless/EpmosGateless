@@ -34,6 +34,20 @@ You need deterministic isolation, governed-word verification, and proven remedia
 
 **Deliverable:** Hardened ingress rules, verified IMAP/SMTP bridge credentials, and locked-down reverse proxy configurations.
 
+### Atlas & Atkins — Institutional Protection
+
+![Atlas and Atkins — EPMOS institutional protection](docs/atlas-atkins-hero.jpg)
+
+#### Atlas — Institutional Data Continuity & Provenance
+
+The official record of EPMOS — maintaining data continuity, inventory, lineage, version, and state traceability across the institution.
+
+#### Atkins — Security & Authority Enforcement
+
+The enforcement layer of EPMOS — verifying identity, authority and risk while maintaining controlled FLOW, HOLD, or DENY.
+
+**Atlas and Atkins lanes: $10,000 each.**
+
 ### Pricing & Packaging
 
 **The Diagnostic & Remediation Sprint — $2,500 flat per engagement**
