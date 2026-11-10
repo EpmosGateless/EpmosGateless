@@ -42,9 +42,13 @@ You need deterministic isolation, governed-word verification, and proven remedia
 
 The official record of EPMOS — maintaining data continuity, inventory, lineage, version, and state traceability across the institution.
 
+Atlas checklist: Record, Trace, Verify, Preserve, Restore.
+
 #### Atkins — Security & Authority Enforcement
 
 The enforcement layer of EPMOS — verifying identity, authority and risk while maintaining controlled FLOW, HOLD, or DENY.
+
+Atkins functions: Identity, Authority, Security, Risk, Decision, Policy.
 
 **Atlas and Atkins lanes: $10,000 each.**
 
